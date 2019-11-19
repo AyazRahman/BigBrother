@@ -41,7 +41,7 @@ The user just have to enter a valid name to add the new face to the collection.
 
 Once the face it added, the system would recognize the face the next time it detects that face. The facial recognition is done using Amazon Rekognition.
 
-The color palette for this project was inspired by https://dribbble.com/shots/7867164-Vortex-a-new-way-of-messaging  
-The icons and logo for this project are taken from icon8 https://icons8.com/
-Backend using Firebase: https://firebase.google.com/
-Facial Recognition using Amazon Rekognition: https://aws.amazon.com/rekognition/
+* The color palette for this project was inspired by https://dribbble.com/shots/7867164-Vortex-a-new-way-of-messaging  
+* The icons and logo for this project are taken from icon8 https://icons8.com/
+* Backend using Firebase: https://firebase.google.com/
+* Facial Recognition using Amazon Rekognition: https://aws.amazon.com/rekognition/
