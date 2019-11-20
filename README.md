@@ -15,7 +15,7 @@ BigBrother was the final project for our FIT5140 project. BigBrother is an iOS a
 
 The onboarding screen is only shown when the user first installs the app. The intro gives the user some detials about the functionality about the app. The it gives the option to scan the bar code that is attached on the box to register the device. Once the device is registered, the user will never see this screen again unless they reinstall the app. The device ID is stored using User Defaults to make it persistent. Picture of a sample barcode is given below.
 
-![](Images/Sample_Barcode.png)
+![](Images/Sample_BarCode.png)
 
 ### Login Screen: 
 
