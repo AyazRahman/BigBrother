@@ -1,6 +1,6 @@
 # BigBrother
 
-BigBrother was the final project for our FIT5140 project. BigBrother is an iOS application for an IoT surveillence system with motion detection and facial recognition.
+BigBrother was the final project for our FIT5140 unit. BigBrother is an iOS application for an IoT surveillence system with motion detection and facial recognition.
 
 ## What I learned
 * programatically change views depending on different situtations
@@ -13,7 +13,7 @@ BigBrother was the final project for our FIT5140 project. BigBrother is an iOS a
 
 ![](Images/Intro.gif)
 
-The onboarding screen is only shown when the user first installs the app. The intro gives the user some detials about the functionality about the app. The it gives the option to scan the bar code that is attached on the box to register the device. Once the device is registered, the user will never see this screen again unless they reinstall the app. The device ID is stored using User Defaults to make it persistent. Picture of a sample barcode is given below.
+The onboarding screen is only shown when the user first installs the app. The intro gives the user some details about the functionality of the app. Then it gives the option to scan the bar code that is attached on the box to register the device. Once the device is registered, the user will never see this screen again unless they reinstall the app. The device ID is stored using User Defaults to make it persistent. Picture of a sample barcode is given below.
 
 ![](Images/Sample_BarCode.png)
 
@@ -21,7 +21,7 @@ The onboarding screen is only shown when the user first installs the app. The in
 
 ![](Images/Login.png) ![](Images/Register.png)
 
-Once the device is registered, the user is taken to the login screen where they can log in using his credentials. if they does not have an account they can register for a new account. Used Email/Password authentication in Firebase for this feature
+Once the device is registered, the user is taken to the login screen where they can log in using their credentials. if they does not have an account they can register for a new account. Used Email/Password authentication in Firebase for this feature
 
 ### Home Screen:
 
